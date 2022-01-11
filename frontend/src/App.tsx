@@ -4,7 +4,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import Listing from 'pages/Listing';
+import Listing from 'components/Pagination';
 import Form from 'pages/Form';
 import Navbar from "components/Navbar";
 
