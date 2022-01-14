@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
-import "./styles.css"
+import "./styles.css";
+
 function Form() {
 
     const movie = {
@@ -39,7 +40,7 @@ function Form() {
                 </Link>
             </div >
         </div >
-    )
+    );
 }
 
 export default Form;
